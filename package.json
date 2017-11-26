@@ -1,0 +1,25 @@
+{
+  "name": "data_clustering_with_javascript",
+  "version": "0.0.1",
+  "dependencies": {
+    "clusterfck": "^0.6.0",
+    "data-forge": "^0.5.3",
+    "density-clustering": "^1.3.0",
+    "hac": "^1.0.7",
+    "machine_learning": "^0.1.1",
+    "ml-dataset-iris": "^1.0.0",
+    "ml-distance": "^2.1.1",
+    "ml-hclust": "^1.3.0",
+    "ml-kmeans": "^3.0.0",
+    "node-uuid": "^1.4.8",
+    "opn": "^5.0.0",
+    "plotly": "^1.0.6",
+    "shaman": "^0.3.2",
+    "simple-statistics": "^4.1.0",
+    "underscore": "^1.8.3",
+    "zscore": "^0.1.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.47.0"
+  }
+}
